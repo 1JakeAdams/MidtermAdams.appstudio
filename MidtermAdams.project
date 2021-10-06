@@ -38,8 +38,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "numberRange",
-            "numberRange.json"
+            "Range",
+            "Range.json"
           ]
         }
       ],
