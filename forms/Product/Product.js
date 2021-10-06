@@ -1,4 +1,4 @@
-/*
+
 let storeProducts = ["milk","cheese","cream","eggs"]
 ask = prompt("Do you want to add or delete the last product (Type: 'Add' to add and 'Delete' to delete)?")
 if (ask == "Add") {
@@ -16,4 +16,3 @@ while (i < storeProducts.length) {
 
 
 
-*/
